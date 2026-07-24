@@ -1,7 +1,7 @@
 # Task2-Insertion-Deletion-and-Null-Handling
 A practical SQL exercise demonstrating how to design a relational schema and correctly **insert, update, delete, and handle NULL values** using a realistic library management system.
 
-Check For- [Code]([https://www.db-fiddle.com/f/uMZUrVdYg1sQXZkaWdoneY/0#&togetherjs=dw9fzlG0Hu/](https://www.db-fiddle.com/f/5kptKcckYoFP8D2BrP6UEe/2#&togetherjs=3rbxG6jgra))
+Check For- [Code](https://www.db-fiddle.com/f/5kptKcckYoFP8D2BrP6UEe/2#&togetherjs=3rbxG6jgra)
 
 ## 📋 Table Overview
 
